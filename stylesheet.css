@@ -1,4 +1,11 @@
+body, html{
+    height: 100%;
+}
 .first-img  {
-    width: 50%;
-    height: 500px;
+    width: 75%;
+    height: 75%;
+    position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5%;
 }
